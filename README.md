@@ -1,2 +1,41 @@
-# data_analytics_portfolio
-Data Analytics portfolio focused on business-oriented projects developed mainly with Power BI and Python.  The projects demonstrate skills in data analysis, visualization, and generating insights to support decision-making.
+# Data Analytics Portfolio
+
+Author: Sebastian Quesada
+
+## About This Portfolio
+
+This portfolio contains data analytics projects focused on solving real business problems using data.
+
+Most projects are developed using:
+
+- Python for data analysis and data science
+- Power BI for dashboards and business insights
+- SQL for data extraction and transformation
+
+The projects are based on real-world business scenarios such as collections analysis, performance monitoring, and operational improvement.
+
+## Skills Demonstrated
+
+- Data Cleaning and Preparation
+- Exploratory Data Analysis
+- Data Visualization
+- Dashboard Development
+- Business Insights
+- Process Improvement Analytics
+
+## Tools Used
+
+- Python
+- Power BI
+- SQL
+- Pandas
+- Matplotlib
+- Excel
+
+## Goal
+
+The objective of this portfolio is to demonstrate practical data analytics skills and the ability to transform data into actionable insights.
+
+## Projects
+
+1 Collections Data Analysis (Python): https://github.com/squesadag2000/collections-data-analysis
