@@ -28,8 +28,6 @@ The projects are based on real-world business scenarios such as collections anal
 - Python
 - Power BI
 - SQL
-- Pandas
-- Matplotlib
 - Excel
 
 ## Goal
@@ -38,8 +36,14 @@ The objective of this portfolio is to demonstrate practical data analytics skill
 
 ## Projects
 
+# Finances
+
 1 Collections Data Analysis (Python): https://github.com/squesadag2000/collections-data-analysis
 
-2 30-Day-Hospital-Readmission-Analysis (Python): https://github.com/squesadag2000/30-Day-Hospital-Readmission-Analysis
+# Healthcare and Health Systems
 
-3 Reducing-Wait-Times-in-Public-Healthcare (Python): https://github.com/squesadag2000/Reducing-Wait-Times-in-Public-Healthcare
+1 30-Day-Hospital-Readmission-Analysis (Python): https://github.com/squesadag2000/30-Day-Hospital-Readmission-Analysis
+
+2 Reducing-Wait-Times-in-Public-Healthcare (Python): https://github.com/squesadag2000/Reducing-Wait-Times-in-Public-Healthcare
+
+3 Healthcare Analytics SQL Project (SQL): https://github.com/squesadag2000/Healthcare-Analytics-SQL-Project
