@@ -40,6 +40,8 @@ The objective of this portfolio is to demonstrate practical data analytics skill
 
 1 Collections Data Analysis (Python): https://github.com/squesadag2000/collections-data-analysis
 
+2 Collections Dashboard (Power BI): https://github.com/squesadag2000/Power-BI-Dashboard-for-Collections/blob/main/README.md
+
 ### Healthcare and Health Systems
 
 1 30-Day-Hospital-Readmission-Analysis (Python): https://github.com/squesadag2000/30-Day-Hospital-Readmission-Analysis
