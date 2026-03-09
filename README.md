@@ -36,11 +36,11 @@ The objective of this portfolio is to demonstrate practical data analytics skill
 
 ## Projects
 
-# Finances
+### Finances
 
 1 Collections Data Analysis (Python): https://github.com/squesadag2000/collections-data-analysis
 
-# Healthcare and Health Systems
+### Healthcare and Health Systems
 
 1 30-Day-Hospital-Readmission-Analysis (Python): https://github.com/squesadag2000/30-Day-Hospital-Readmission-Analysis
 
